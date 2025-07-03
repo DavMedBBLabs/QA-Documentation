@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "7aed413632ecac41",
+    "type": "split",
+    "children": [
+      {
+        "id": "edff9e8416a6ca72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1762f641c681c5d9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Descripción de una HU.png"
+              },
+              "icon": "lucide-image",
+              "title": "Descripción de una HU"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f03d642bf954fa85",
+    "type": "split",
+    "children": [
+      {
+        "id": "16fd72aada8fcdbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e5b80a6924a3894",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "8c1709c5949c36ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b94d9ad8ad81621e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 407.5
+  },
+  "right": {
+    "id": "83df4c7d0ea4b475",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6736b87386bb348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca4b8513aa326a83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fundamentos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Fundamentos"
+            }
+          },
+          {
+            "id": "47ba0fc5dbd8a19d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plantillas/Plantilla para reporte de bugs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Plantilla para reporte de bugs"
+            }
+          },
+          {
+            "id": "3833f91414605116",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "274dbed1ebbd1437",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fundamentos de la Calidad de Software.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Fundamentos de la Calidad de Software"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "1762f641c681c5d9",
+  "lastOpenFiles": [
+    "🗺️Roadmap QA.md",
+    "QA/Stage 1/Testing.md",
+    "QA/Stage 1/Introducción QA.md",
+    "QA/Stage 1/Fundamentos.md",
+    "Plantillas/Plantilla de Refinamiento de Historias de Usuario.md",
+    "Plantillas/Plantilla para reporte de bugs.md",
+    "Plantillas/Plantilla Creación HUs.md",
+    "Plantillas/Plantilla Base HUs.md",
+    "Excalidraw/Drawing 2025-07-03 15.44.55.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-03 15.44.51.excalidraw.md",
+    "Excalidraw",
+    "QA/Stage 6/ISO-IEC 25010.md",
+    "QA/Stage 6/Conceptos clave.md",
+    "QA/Stage 6/Buenas Prácticas y Cultura.md",
+    "QA/Stage 6/Automatización y Frameworks.md",
+    "QA/Stage 5/Severidad.md",
+    "QA/Stage 5/Bug.md",
+    "QA/Stage 4/Tipos de prueba.md",
+    "QA/Stage 4/Niveles de Testing.md",
+    "QA/Stage 2/Kanban.md",
+    "QA/Stage 3/Técnicas de priorización.md",
+    "QA/Stage 3/Herramientas de Gestión de Casos de Prueba.md",
+    "QA/Stage 3/Casos de Prueba.md",
+    "QA/Stage 2/Scrum.md",
+    "QA/Stage 2/Cascada.md",
+    "QA/Stage 3/Escenario.png",
+    "QA/Stage 5/Reporte de Bugs.md",
+    "Quality Assurance (QA).md",
+    "QA/Stage 6",
+    "QA/Stage 4",
+    "QA/Stage 2",
+    "Descripción de una HU.png",
+    "QA/Stage 3",
+    "QA/Stage 5",
+    "QA/Stage 1",
+    "QA/QA.canvas",
+    "QA",
+    "Sin título.canvas",
+    "Plantillas/Reporte Bugs",
+    "Plantillas",
+    "Conceptos Fundamenales/Sin título.canvas"
+  ]
+}
